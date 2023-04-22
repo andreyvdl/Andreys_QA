@@ -10,6 +10,6 @@ valgrind e outros detectores de vazamento
 gráfico??????
 
 
-<p align ="center>
-  Made with 🧠 by @<a href="https://github.com/andreyvdl">andreyvdl</a>.
+<p align="center">
+    Made with 🧠 by @<a href="https://github.com/andreyvdl">andreyvdl</a>
 </p>
