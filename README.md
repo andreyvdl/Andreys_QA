@@ -4,12 +4,12 @@ Just some tips of mine for tests you should do in your code.
 
 ## INDEX
 
-- [1.KNOW YOUR CODE]()   
-- [2.LOGICAL TESTS]()   
-    - [2.1.BASIC]()   
-    - [2.2.ADVANCED]()
-    - [2.3.FINISH IT]()   
-- [3.PROGRAMER FRIENDS]()   
+- [1.KNOW YOUR CODE](https://github.com/andreyvdl/Andreys_QA#1know-your-code)   
+- [2.LOGICAL TESTS](https://github.com/andreyvdl/Andreys_QA#2logical-tests)   
+    - [2.1.BASIC](https://github.com/andreyvdl/Andreys_QA#21basic)   
+    - [2.2.ADVANCED](https://github.com/andreyvdl/Andreys_QA#22advanced)
+    - [2.3.FINISH IT](https://github.com/andreyvdl/Andreys_QA#23finish-it)   
+- [3.PROGRAMMER FRIENDS](https://github.com/andreyvdl/Andreys_QA#3programmer-friends)   
 
 ### 1.KNOW YOUR CODE   
 
