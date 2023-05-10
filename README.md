@@ -14,7 +14,9 @@ Just some tips of mine for tests you should do in your code.
 ### 1.KNOW YOUR CODE   
 
 At first this may look/sound _stupid_, but is more common to a programmer **not** know what it program does after some time, so take a time to read and keep notes about the functions/methods that your program call, this will be important in the future (One thing that might help is to keep the **ONLY** good part of the clean code).   
+
 > "A name should tell you why it exists, what it does, and how it is used. If a name requires a comment, then the name does not reveal its intent."   
+
 OK, so now that you know what your program does lets go to the most important part of this text.   
 
 ### 2.LOGICAL TESTS   
