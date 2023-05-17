@@ -4,12 +4,12 @@ só umas dicas minhas de testes que você deve fazer no seu código.
 
 ## INDEX
 
-- [1.CONHEÇA SEU CÓDIGO](https://github.com/andreyvdl/Andreys_QA#1know-your-code)   
-- [2.TESTES LÓGICOS](https://github.com/andreyvdl/Andreys_QA#2logical-tests)   
-    - [2.1.BÁSICO](https://github.com/andreyvdl/Andreys_QA#21basic)   
-    - [2.2.AVANÇADO](https://github.com/andreyvdl/Andreys_QA#22advanced)
-    - [2.3.ACABE COM ISSO](https://github.com/andreyvdl/Andreys_QA#23finish-it)   
-- [3.AMIGOS DE PROGRAMADOR](https://github.com/andreyvdl/Andreys_QA#3programmer-friends)   
+- [1.CONHEÇA SEU CÓDIGO](https://github.com/andreyvdl/Andreys_QA/blob/main/README-PTBR.md#1conheça-seu-código)   
+- [2.TESTES LÓGICOS](https://github.com/andreyvdl/Andreys_QA/blob/main/README-PTBR.md#2testes-lógicos)   
+    - [2.1.BÁSICO](https://github.com/andreyvdl/Andreys_QA/blob/main/README-PTBR.md#21básico)   
+    - [2.2.AVANÇADO](https://github.com/andreyvdl/Andreys_QA/blob/main/README-PTBR.md#22avançado)
+    - [2.3.ACABE COM ISSO](https://github.com/andreyvdl/Andreys_QA/blob/main/README-PTBR.md#23acabe-com-isso)   
+- [3.AMIGOS DE PROGRAMADOR](https://github.com/andreyvdl/Andreys_QA/blob/main/README-PTBR.md#3amigos-de-programador)   
 
 ### 1.CONHEÇA SEU CÓDIGO   
 
